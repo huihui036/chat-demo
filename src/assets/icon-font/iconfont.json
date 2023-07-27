@@ -1,0 +1,44 @@
+{
+  "id": "4182483",
+  "name": "electron-chat",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1299861",
+      "name": "Screenshots-1",
+      "font_class": "5jietu-1",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "1581577",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "4143528",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "29941052",
+      "name": "表情",
+      "font_class": "biaoqing",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "7738015",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
